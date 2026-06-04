@@ -1,0 +1,6 @@
+[package]
+name = "ternary-reef"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Coral reef ecosystem pattern for long-lived collective intelligence in ternary fleets"
